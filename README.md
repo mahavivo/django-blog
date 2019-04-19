@@ -1,1 +1,1 @@
-# django-blog-beta
+## Django blog test
